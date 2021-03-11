@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Manual do Cliente": ["doc3"],
+    "Manual do Corretor": ["doc2"],
+    "Manual do BackOffice": ["doc1"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
